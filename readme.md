@@ -19,7 +19,15 @@
 
 ### You also can donate me by Binance Pay:
 
-> * Binance code: 257096106
+> 1. **BCP (Perú):**
+> - Mi número de cuenta BCP Soles es 57576423440052.
+> - Mi número de cuenta interbancaria es 00257517642344005291.
+> 2. **Interbank (Perú):**
+> - Mi número de Cuenta Simple Soles en Interbank es: 8983251479323
+> - Mi número de Cuenta Interbancario (CCI) en Interbank es: 00389801325147932342.
+> 3. **Global 66 (Muchos Paises):**
+     🛸🛸 https://deep-link.global66.com/g66/mcZBKyUMMRBzXMGW8
+> 4. Binance code: 257096106
 > * Binance name: spacecodee
 > * Binance QR code:
     ![BinancePayQR.png](src%2Fmain%2Fresources%2Fstatic%2Fimg%2FBinancePayQR.png)
